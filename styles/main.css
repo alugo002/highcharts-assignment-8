@@ -70,3 +70,4 @@ a:hover {
   #container1, #container2 {
     grid-template-columns: repeat(2, auto);
   }
+}
